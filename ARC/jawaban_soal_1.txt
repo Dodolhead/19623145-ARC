@@ -1,0 +1,26 @@
+Apa itu merge conflict dan cara menanggulanginya?
+
+Dalam pengembangan perangkat lunak, konflik penggabungan terjadi ketika dua perubahan kode yang berbeda dilakukan pada bagian yang sama dari file atau proyek. 
+Konflik ini biasanya terjadi ketika dua atau lebih anggota tim bekerja pada cabang (branch) yang berbeda dari kode sumber yang sama dan mencoba menggabungkan 
+(merge) perubahan mereka ke dalam satu cabang utama.
+
+Cara menangani konflik penggabungan berbeda-beda tergantung pada alat pengendalian versi, seperti Git, dan tingkat kerumitan konflik. 
+Namun, prosedur biasanya adalah sebagai berikut:
+
+1. Kenali Konflik: Alat pengendali versi akan memberi tahu Anda jika ada konflik saat Anda mencoba menggabungkan perubahan dari dua atau lebih cabang. 
+Anda perlu mengetahui di mana dan mengapa konflik terjadi.
+
+2. Periksa Perubahan: Tinjau perubahan kode yang menyebabkan konflik. Pelajari tujuan masing-masing perubahan dan bagaimana mereka bertentangan satu sama lain.
+
+3. Revisi Kode: Perubahan kode memperbaiki konflik. Ini dapat mencakup menghapus, mengubah, atau menambahkan kode untuk memenuhi kebutuhan proyek.
+
+4. Uji Perubahan: Setelah konflik diselesaikan, uji perubahan Anda untuk memastikan semuanya masih berfungsi dengan baik.
+
+5. Commit Perubahan: Setelah konflik diselesaikan dan perubahan diuji, kirim perubahan Anda. Pastikan untuk menjelaskan detail perubahan yang Anda lakukan, 
+terutama jika ada konflik yang signifikan.
+
+6. Gabungkan Kembali: Cobalah lagi untuk menggabungkan cabang Anda dengan cabang utama atau cabang yang dituju. 
+Tidak ada konflik di sini karena masalahnya sudah diselesaikan.
+
+7. Pelajari dari Konflik: Jangan lupakan untuk memeriksa apa yang menyebabkan konflik tersebut dan bagaimana dapat dihindari di masa depan.
+Mungkin ada pola tertentu atau kebiasaan pengkodean yang dapat diperbaiki untuk mengurangi kemungkinan konflik di kemudian hari.
