@@ -1,5 +1,0 @@
-Apa itu git rebase?
-
-Git Rebase adalah proses dalam Git yang memungkinkan Anda mengubah sejarah commit sebuah cabang dengan menerapkan perubahan dari cabang lain ke atasnya. 
-Dengan kata lain, rebase memungkinkan Anda mengubah sejarah commit sehingga tampaknya Anda melakukan pekerjaan Anda di atas cabang lain daripada membuat 
-cabang tambahan di masa lalu.
